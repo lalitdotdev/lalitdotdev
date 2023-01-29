@@ -1,12 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/lalit-sharma-16472b240/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- 
   <a href="https://twitter.com/Mr_Explorist">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -14,16 +12,25 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lalitsharma74&label=Profile%20views&color=0e75b6&style=flat" alt="lalitsharma74" /> </p>
 
 <h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I'm Lalit Sharma</h1>
-<h3 align="center">A passionate full stack developer from India :india:</h3>
+<h3 align="center">A passionate and self-taught :rocket: full Stack Developer from India :india:</h3>
+
 
 
 <p>
   <em>
-    I am a pre-final year undergraduate student from <a href="https://amu.ac.in/"> <b>Zakir Husain College of Engineering And Technology</b>, Aligarh</a> 
+    :writing_hand: I am a pre-final year undergraduate student from <a href="https://amu.ac.in/"> <b>Zakir Husain College of Engineering And Technology</b>, Aligarh 	</a>
   </em> 
-
-      
 </p>
+
+ <p> 
+  
+```
+  ⚡ A PASSIONATE FULL STACK SOFTWARE DEVELOPER HAVING AN EXPERIENCE OF BUILDING WEB MAINLY BASED ON MERN STACK AND MOBILE APPLICATIONS WITH REACT NATIVE AND SOME OTHER COOL FRONTEND AS WELL AS BACKEND LIBRARIES AND FRAMEWORKS 
+  
+  ⚡ CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK
+
+```
+</P> 
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" width="450" height="300"/>
@@ -44,7 +51,7 @@
 
 - :zap: In my free time, I solve problems and read tech articles.
 
-<h2>📫 Reach out to me on</h2>
+<h2> Reach out to me on</h2>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pinglalit/)](https://www.linkedin.com/in/pinglalit/)
@@ -109,8 +116,18 @@
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 
+### Databases:
 
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+  ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
+## 🌱 I’m currently learning
+
+* DevOps :infinity: Tools 
+* AI and ML in <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="50" />
 
 ---
 ### :fire: My Stats :
@@ -123,5 +140,7 @@
 
 ---
 
+
 ### :writing_hand: Blog Posts :
 
+### Show some ❤️ by starring 	:star2: some of the repositories!
