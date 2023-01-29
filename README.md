@@ -59,7 +59,9 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://salonix.medium.com/)](https://salonix.medium.com/)
 [![Web](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://lalitsharma-portfolio.netlify.app/)](https://lalitsharma-portfolio.netlify.app/) 
 
----  
+
+---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -81,6 +83,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
 </div>
+
+
 
 ### Language :
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -143,4 +147,4 @@
 
 ### :writing_hand: Blog Posts :
 
-### Show some ❤️ by starring 	:star2: some of the repositories!
+### Please Show some ❤️ by :star2: some of the repositories!
