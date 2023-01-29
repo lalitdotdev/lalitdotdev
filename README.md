@@ -10,10 +10,11 @@
   </a>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lalitsharma74&label=Profile%20views&color=0e75b6&style=flat" alt="lalitsharma74" /> </p>
-
 <h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I'm Lalit Sharma</h1>
+<div align="center">
+<img src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif" width="400" height="300" /> 
+</div>
 <h3 align="center">A passionate and self-taught :rocket: full Stack Developer from India :india:</h3>
-
 
 
 <p>
