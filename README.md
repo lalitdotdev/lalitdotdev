@@ -128,7 +128,9 @@
   ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
-## 🌱 I’m currently learning
+
+
+## :seedling: I’m currently learning
 
 * DevOps :infinity: Tools 
 * AI and ML in <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="50" />
