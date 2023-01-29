@@ -32,9 +32,7 @@
 ```
 </P> 
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" width="450" height="300"/>
-</div>
+
 
 
 <p align="center "> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalitsharma74" alt="lalitsharma74" /></a> </p>
