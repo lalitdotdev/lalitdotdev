@@ -14,26 +14,26 @@
 <div align="center">
 <img src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif" width="400" height="300" /> 
 </div>
-<h3 align="center">A passionate and self-taught :rocket: full Stack Developer from India :india:</h3>
 
 
-<p>
-  <em>
-    :writing_hand: I am a pre-final year undergraduate student from <a href="https://amu.ac.in/"> <b>Zakir Husain College of Engineering And Technology</b>, Aligarh 	</a>
-  </em> 
-</p>
+
 
  <p> 
   
 ```
-  ⚡ A PASSIONATE FULL STACK SOFTWARE DEVELOPER HAVING AN EXPERIENCE OF BUILDING WEB MAINLY BASED ON MERN STACK AND MOBILE APPLICATIONS WITH REACT NATIVE AND SOME OTHER COOL FRONTEND AS WELL AS BACKEND LIBRARIES AND FRAMEWORKS 
-  
-  ⚡ CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK 💻 + 😃 + 🧠 + 💡 = 🏆
-
+  ⚡ hi, I'm Lalit Sharma , a passionate self-taught full stack web developer and a freelance software engineer from india.
+  ⚡ My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, 
+    architecture, and code quality of the things I build.
+  ⚡ I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge
+    sharing happened through open-source.
 ```
 </P> 
 
-
+<p>
+  <em>
+    :writing_hand: I am a pre-final year undergraduate student from <a href="https://amu.ac.in/"> <b>Zakir Husain College of Engineering And Technology</b>, Aligarh</a>
+  </em> 
+</p>
 
 
 <p align="center "> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalitsharma74" alt="lalitsharma74" /></a> </p>
@@ -152,9 +152,13 @@
 
 ## :seedling: I’m currently learning
 
-* DevOps :infinity: Tools 
-* AI and ML in <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="50" />
-* Data Structures and Algorithm
+* :avocado: DevOps Tools :infinity:  
+* :octocat: AI and ML in <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="50" />
+* :window: Data Structures and Algorithm
+  
+
+ <em><h4>:bulb: CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK 💻 + 😃 + 🧠 + 💡 = 🏆 </h4> </em>
+
 ---
 ### :fire: My Stats :
 
