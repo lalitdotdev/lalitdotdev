@@ -39,7 +39,7 @@ Know more about me:
 ---
 
 ### :man_technologist: About Me : 
-- :man_technologist: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :man_technologist: I am a self taught Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m Contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
