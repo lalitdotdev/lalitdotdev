@@ -21,9 +21,9 @@
 
 Know more about me:
 
-- 👨‍🎓<em>I am a pre-final year undergraduate student from <a href="https://amu.ac.in/"> <b>Zakir Husain College of Engineering And Technology</b>, Aligarh</a></em> .Data Structure and Algorithms, Object Oriented Programming, DBMS, and Compiler Design are the academic areas of study I am most interested in. I enjoy delving into the intricacies of technology, am passionate about problem-solving, and driven to create things that make an impact.
+- 👨‍🎓<em>I am a pre-final year undergraduate student from <a href="https://amu.ac.in/"> <b>Zakir Husain College of Engineering And Technology</b>, Aligarh</a></em>. I enjoy delving into the intricacies of technology, am passionate about problem-solving, and driven to create things that make an impact.
 
-- ⚡️ I've had expertise using the Agile Methodology to build upon large-scale systems while working on multi-disciplinary projects. **On a technical front**, I'm skilled in Automation (Python), Frontend (React), Backend Development (Flask, Django, Rails), various AWS Services (lambda, ElasticSearch, SQS), and Data Mining and Analysis.
+- ⚡️ I've had expertise using the Agile Methodology to build upon large-scale systems while working on multi-disciplinary projects. **On a technical front**, I'm skilled in Frontend (React , Nextjs), Backend Development (NodeJs ,Flask, Django), various AWS Services (lambda , EC2)
 
 - ⚡ My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, 
     architecture, and code quality of the things I build.
@@ -150,7 +150,6 @@ Know more about me:
 ## :seedling: I’m currently learning
 
 * :avocado: DevOps Tools :infinity:  
-* :octocat: AI and ML in <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="50" />
 * :window: Data Structures and Algorithm
   
 
