@@ -1,14 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges" align = "center">
-  <a href="https://www.linkedin.com/in/lalit-sharma-16472b240/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/Mr_Explorist">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lalitsharma74&label=Profile%20views&color=0e75b6&style=flat" alt="lalitsharma74" /> </p>
 <h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I'm Lalit Sharma</h1>
 <div align="center">
@@ -21,14 +14,12 @@
 
 Know more about me:
 
-- 👨‍🎓<em>I am a pre-final year undergraduate student from <a href="https://amu.ac.in/"> <b>Zakir Husain College of Engineering And Technology</b>, Aligarh</a></em>. I enjoy delving into the intricacies of technology, am passionate about problem-solving, and driven to create things that make an impact.
+- 👨‍🎓<em>Curious, Driven, and Tech-Inspired! I'm a pre-final year undergraduate student at <a href="https://amu.ac.in/"> <b>Zakir Husain College of Engineering And Technology</b>, Aligarh</a>. From unraveling technology's mysteries to crafting impactful solutions, I thrive on exploring the endless possibilities and challenges that come with it.</em>. I enjoy delving into the intricacies of technology, am passionate about problem-solving, and driven to create things that make an impact.
 
 - ⚡️ I've had expertise using the Agile Methodology to build upon large-scale systems while working on multi-disciplinary projects. **On a technical front**, I'm skilled in Frontend (React , Nextjs), Backend Development (NodeJs ,Flask, Django), various AWS Services (lambda , EC2)
 
-- ⚡ My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, 
-    architecture, and code quality of the things I build.
-- ⚡ I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge
-    sharing happened through open-source.
+- ⚡ Dreaming, Designing, Developing. With a passion for software, I transform ideas into elegant interfaces. Meticulous about user experience, architecture, and code quality, I bring creations to life.
+- ⚡ Passionate about exploring and contributing to open source projects, I thrive on the spirit of collaboration and knowledge sharing. With a keen interest in leveraging my skills to make a meaningful impact, I am actively seeking opportunities to collaborate with like-minded developers on exciting open source initiatives. Let's join forces and create something remarkable together.
   
   
 
@@ -50,8 +41,7 @@ Know more about me:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pinglalit/)](https://www.linkedin.com/in/pinglalit/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saloniguptasg12@gmail.com)](mailto:saloniguptasg12@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://salonix.medium.com/)](https://salonix.medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saloniguptasg12@gmail.com)](mailto:lksharma742k@gmail.com)
 [![Web](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://lalitsharma-portfolio.netlify.app/)](https://lalitsharma-portfolio.netlify.app/) 
 
 
@@ -147,10 +137,11 @@ Know more about me:
 
 
 
-## :seedling: I’m currently learning
+## :seedling: I’m currently 
 
-* :avocado: DevOps Tools :infinity:  
-* :window: Data Structures and Algorithm
+* :avocado: Learning  how to implement DevOps Tools :infinity:  
+* :window:  Data Structures and Algorithm
+* :building_construction: Building <b>CampusBuddy</b>
   
 
  <em><h4>:bulb: CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK 💻 + 😃 + 🧠 + 💡 = 🏆 </h4> </em>
