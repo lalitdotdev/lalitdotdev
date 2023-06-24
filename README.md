@@ -14,7 +14,7 @@
 
 Know more about me:
 
-- 👨‍🎓<em>Curious, Driven, and Tech-Inspired! I'm a pre-final year undergraduate student at <a href="https://amu.ac.in/"> <b>Zakir Husain College of Engineering And Technology</b>, Aligarh</a>. From unraveling technology's mysteries to crafting impactful solutions, I thrive on exploring the endless possibilities and challenges that come with it.</em>. I enjoy delving into the intricacies of technology, am passionate about problem-solving, and driven to create things that make an impact.
+- 👨‍🎓<em>Curious, Self Driven, and Tech-Inspired!  I'm a pre-final year undergraduate student at <a href="https://amu.ac.in/"> <b>Zakir Husain College of Engineering And Technology</b>, Aligarh</a> </em>. From unraveling technology's mysteries to crafting impactful solutions, I thrive on exploring the endless possibilities and challenges that come with it.. I enjoy delving into the intricacies of technology, am passionate about problem-solving, and driven to create things that make an impact.
 
 - ⚡️ I've had expertise using the Agile Methodology to build upon large-scale systems while working on multi-disciplinary projects. **On a technical front**, I'm skilled in Frontend (React , Nextjs), Backend Development (NodeJs ,Flask, Django), various AWS Services (lambda , EC2)
 
