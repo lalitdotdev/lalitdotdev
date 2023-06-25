@@ -153,7 +153,7 @@ Know more about me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrExplorist&layout=compact&theme=vision-friendly-dark)](https://github.com/mrExplorist/github-readme-stats)
 
-![My stats](https://github-readme-stats.vercel.app/api?username=lalitsharma74&show_icons=true&theme=radical)
+![My stats](https://github-readme-stats.vercel.app/api?username=mrExplorist&show_icons=true&theme=radical)
 
 ---
 
