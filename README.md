@@ -149,9 +149,9 @@ Know more about me:
 ---
 ### :fire: My Stats  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LalitSharma74&theme=violet-punch&border_radius=7)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrExplorist&theme=violet-punch&border_radius=7)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitsharma74&layout=compact&theme=vision-friendly-dark)](https://github.com/lalitsharma74/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrExplorist&layout=compact&theme=vision-friendly-dark)](https://github.com/mrExplorist/github-readme-stats)
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=lalitsharma74&show_icons=true&theme=radical)
 
