@@ -158,8 +158,7 @@ Know more about me:
 - 🔴 [Outreachy 2023](https://www.outreachy.org/blog/2023-08-08/december-2023-initial-applications-open/) ( December Cohort) 
 - 🟡 [Summer of Bitcoin](https://www.summerofbitcoin.org) (2023) → Yet to take a shot ⏳(2024)
 - 🟡 [NTU (MM Lab) Research Internship](https://www.mmlab-ntu.com/careers.html) → (Not eligible) ❎ / Reapply ⏳(2024)
-- 🟢 [HKUST PG Visiting Research Internship](https://shorturl.at/aAVW8) → ⏳([2024/2025](https://facultyprofiles.hkust.edu.hk/facultylisting.php))
-- 🟢 [NUS Research Internship](https://nus.edu.sg/cfg/students/jobs-internships/internships) → (Summer / Fall cohort) ⏳(2024)  
+
 
 </p>
 <br/>
