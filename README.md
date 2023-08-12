@@ -147,6 +147,23 @@ Know more about me:
  <em><h4>:bulb: CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK 💻 + 😃 + 🧠 + 💡 = 🏆 </h4> </em>
 
 ---
+<p>
+</br>
+
+**TODO** :- 
+
+- 🟢 [MLH Fellowship](https://fellowship.mlh.io) ⏳
+- 🟢 [LFX/N Mentorship](https://lfx.linuxfoundation.org) ⏳
+- 🟢 [Google Season of Docs](https://developers.google.com/season-of-docs) \
+- 🔴 [Outreachy 2023](https://www.outreachy.org/blog/2023-08-08/december-2023-initial-applications-open/) ( December Cohort) 
+- 🟡 [Summer of Bitcoin](https://www.summerofbitcoin.org) (2023) → Yet to take a shot ⏳(2024)
+- 🟡 [NTU (MM Lab) Research Internship](https://www.mmlab-ntu.com/careers.html) → (Not eligible) ❎ / Reapply ⏳(2024)
+- 🟢 [HKUST PG Visiting Research Internship](https://shorturl.at/aAVW8) → ⏳([2024/2025](https://facultyprofiles.hkust.edu.hk/facultylisting.php))
+- 🟢 [NUS Research Internship](https://nus.edu.sg/cfg/students/jobs-internships/internships) → (Summer / Fall cohort) ⏳(2024)  
+
+</p>
+<br/>
+
 ### :fire: My Stats  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrExplorist&theme=violet-punch&border_radius=7)](https://git.io/streak-stats)
