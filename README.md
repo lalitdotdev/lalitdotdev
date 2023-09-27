@@ -150,14 +150,7 @@ Know more about me:
 <p>
 </br>
 
-**TODO** :- 
 
-- 🟢 [MLH Fellowship](https://fellowship.mlh.io) ⏳
-- 🟢 [LFX/N Mentorship](https://lfx.linuxfoundation.org) ⏳
-- 🟢 [Google Season of Docs](https://developers.google.com/season-of-docs)
-- 🔴 [Outreachy 2023](https://www.outreachy.org/blog/2023-08-08/december-2023-initial-applications-open/) ( December Cohort) 
-- 🟡 [Summer of Bitcoin](https://www.summerofbitcoin.org) (2023) → Yet to take a shot ⏳(2024)
-- 🟡 [NTU (MM Lab) Research Internship](https://www.mmlab-ntu.com/careers.html) → (Not eligible) ❎ / Reapply ⏳(2024)
 
 
 </p>
