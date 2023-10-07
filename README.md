@@ -22,8 +22,7 @@ Know more about me:
 - ⚡ Passionate about exploring and contributing to open source projects, I thrive on the spirit of collaboration and knowledge sharing. With a keen interest in leveraging my skills to make a meaningful impact, I am actively seeking opportunities to collaborate with like-minded developers on exciting open source initiatives. Let's join forces and create something remarkable together.
   
   
-
-[![trophy](https://github-profile-trophy.vercel.app/?mrExplorist=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrExplorist)](https://github.com/mrExplorist/github-profile-trophy)
 
 <p align="center"><a href="https://twitter.com/Mr_Explorist" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
 
