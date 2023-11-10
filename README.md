@@ -164,9 +164,9 @@ Know more about me:
 
 ---
 
-### :writing_hand: Blog Posts :
+### :bookmark_tabs: Course Cerificates :
 
-[AWS Cloud Technical Essentials Certificate from Amazon Web Services](https://coursera.org/share/66d25cd9daf4f1404a2dcad296e28c9a)
+- [AWS Cloud Technical Essentials Certificate from Amazon Web Services](https://coursera.org/share/66d25cd9daf4f1404a2dcad296e28c9a)
 
 ### 📱 Latest Tweets
 
