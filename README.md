@@ -164,7 +164,7 @@ Know more about me:
 
 ---
 
-### :bookmark_tabs: Course Cerificates :
+### :bookmark_tabs: AWS Certified :
 
 - [AWS Cloud Technical Essentials Certificate from Amazon Web Services](https://coursera.org/share/66d25cd9daf4f1404a2dcad296e28c9a)
 
