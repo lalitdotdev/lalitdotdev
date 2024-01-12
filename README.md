@@ -165,10 +165,9 @@ Know more about me:
 
 ---
 
-### :bookmark_tabs: AWS Certified :
+### :bookmark_tabs: AWS Certified with 98% grades :
 
-- [AWS Cloud Technical Essentials Certificate from Amazon Web Services](https://coursera.org/share/66d25cd9daf4f1404a2dcad296e28c9a)
-
+- [AWS Cloud Technical Essentials Certificate from Amazon Web Services](https://coursera.org/share/6026461fef79bb9f34b9b34a9208db38)
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
