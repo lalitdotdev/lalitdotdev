@@ -174,6 +174,12 @@ Know more about me:
 - [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
 <!-- TWITTER:END -->
 
+## 📧 Get in Touch
+
+I'm always interested in new opportunities and collaborations. Feel free to reach out to me through [mailfor.lalitsharma@gmail.com](mailto:mailfor.lalitsharma@gmail.com) or connect with me on [Twitter](https://twitter.com/Mr_Explorist).
+
+Looking forward to building exciting projects together! 😊
+
 ### Please Show some ❤️ by :star2: some of the repositories!
 
 - ⚡ Factual fact: _If this piques your interest, I will be more than happy to connect and build together, what **Makes an Impact.** 🙂_
