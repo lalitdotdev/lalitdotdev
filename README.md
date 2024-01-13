@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=LalitSharma74&label=Profile%20views&color=0e75b6&style=flat" alt="lalitsharma74" /> </p>
 <h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I'm Lalit Sharma</h1>
 <div align="center">
 <img src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif" width="400" height="300" /> 
@@ -24,6 +23,7 @@ Know more about me:
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrExplorist)](https://github.com/mrExplorist/github-profile-trophy)
 
 <p align="center"><a href="https://twitter.com/Mr_Explorist" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=LalitSharma74&label=Profile%20views&color=0e75b6&style=flat" alt="lalitsharma74" /> </p>
 
 ---
 
