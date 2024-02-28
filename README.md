@@ -44,8 +44,7 @@ Know more about me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pinglalit/)](https://www.linkedin.com/in/pinglalit/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saloniguptasg12@gmail.com)](mailto:lksharma742k@gmail.com)
-[![Web](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://lalitsharma-portfolio.netlify.app/)](https://lalitsharma-portfolio.netlify.app/)
-
+[![Web](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://litsharmadev.tech/)](https://litsharmadev.tech/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools : <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" >
