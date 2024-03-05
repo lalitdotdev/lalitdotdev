@@ -145,7 +145,7 @@ Know more about me:
 
 - :avocado: Gaining experience in implementing DevOps Tools AWS cloud and cloud Native Tools :infinity:
 - :window: Data Structures and Algorithm
-- :building_construction: Building <b>CampusBuddy</b>
+- :building_construction: Building <b>devcastle</b>
 - :superhero: Actively looking for remote opportunities
 
 <em><h4>:bulb: CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK 💻 + 😃 + 🧠 + 💡 = 🏆 </h4> </em>
