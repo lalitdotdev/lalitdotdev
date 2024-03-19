@@ -13,7 +13,7 @@
 
 ## I am,
 
-A person who believes in the _POWER OF CODE_ to explore the hidden dimensions of **The Universe**!
+A person who believes in the _POWER OF CODE_
 
 Know more about me:
 
