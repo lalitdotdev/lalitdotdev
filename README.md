@@ -5,7 +5,7 @@
 <!-- <h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I'm Lalit Sharma</h1> -->
 
 <div align="center"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Lalit+Sharma+%F0%9F%91%8B;Let's+Connect!"/>
+  <img width="600" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Lalit+Sharma+%F0%9F%91%8B;Connect+with+me+%F0%9F%A4%9D.;Let's+create+something+Awesome!!+%FO+%9F+%8F"/>
 </div>
 <div align="center">
 <img src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif" width="400" height="300" /> 
