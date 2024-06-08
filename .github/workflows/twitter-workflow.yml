@@ -12,10 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-      - uses: actions/checkout@v4
+        uses: actions/checkout@v4
       - name: Pull in twitter posts
-      - uses: gautamkrishnar/blog-post-workflow@1.8.8
-      
+        uses: gautamkrishnar/blog-post-workflow@1.8.8
         with:
           comment_tag_name: "TWITTER"
           feed_list: "https://rss.app/feeds/nmNjWn6hHLMYpXE1.xml"
