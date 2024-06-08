@@ -175,7 +175,6 @@ Know more about me:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
 <!-- TWITTER:END -->
 
 ## 📧 Get in Touch
