@@ -12,7 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@1.8.8
+      
         with:
           comment_tag_name: "TWITTER"
           feed_list: "https://rss.app/feeds/nmNjWn6hHLMYpXE1.xml"
