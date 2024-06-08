@@ -175,6 +175,9 @@ Know more about me:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@litsharmaa: Indian tech influencers push the boundaries on LinkedIn, some might say exploit. Their hustle for engagement can feel inauthentic, focused on self-promotion over genuine connection and creating some real value.](https://twitter.com/litsharmaa/status/1777730400737234961)
+- [@litsharmaa: Shit Posters reach on X 📈 People who are trying to create actual value 📉](https://twitter.com/litsharmaa/status/1777650900112216449)
+- [@litsharmaa: Debunking fear of AI replacing software engineers by addressing outrageous claims. Let&#39;s analyse this with the help of this 🧵.1. Why NVIDEA&#39;s CEO Jensen Huang say that programmers are obsolete ?#artificiallyinteligence #programming #programmer #technology #developers](https://twitter.com/litsharmaa/status/1771904970733859288)
 <!-- TWITTER:END -->
 
 ## 📧 Get in Touch
