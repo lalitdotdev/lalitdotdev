@@ -4,11 +4,11 @@
 
 <!-- <h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I'm Lalit Sharma</h1> -->
 
-<div align="center"> 
+<div align="center">
   <img width="600" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Lalit+Sharma+%F0%9F%91%8B;Connect+with+me+%F0%9F%A4%9D.;Let's+create+something+Awesome!!+%FO+%9F+%8F"/>
 </div>
 <div align="center">
-<img src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif" width="400" height="300" /> 
+<img src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif" width="400" height="300" />
 </div>
 
 ## I am,
@@ -23,9 +23,9 @@ Know more about me:
 
 - ⚡ Dreaming, Designing, Developing. With a passion for software, I transform ideas into elegant interfaces. Meticulous about user experience, architecture, and code quality, I bring creations to life.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrExplorist)](https://github.com/mrExplorist/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lalitdotdev)](https://github.com/lalitdotdev/github-profile-trophy)
 
-<p align="center"><a href="https://twitter.com/Mr_Explorist" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
+<p align="center"><a href="https://twitter.com/litsharmaa" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LalitSharma74&label=Profile%20views&color=0e75b6&style=flat" alt="lalitsharma74" /> </p>
 
 ---
@@ -45,9 +45,7 @@ Know more about me:
 
 ---
 
-
-
-#### Reach Out To Me On: 
+#### Reach Out To Me On:
 
 <p align="left"> <a href="https://www.github.com/mrExploist" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pinglalit" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/litsharmaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
@@ -56,7 +54,9 @@ Know more about me:
 ---
 
 ### :hammer_and_wrench: Languages and Tools : <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" >
+
 > <p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a></p>
+
 #### Skills & Technologies
 
 > **Frontend & UI**
@@ -134,8 +134,7 @@ Know more about me:
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp</code>;
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp</code>;
 
-### 
-
+###
 
 ### Language :
 
@@ -209,43 +208,36 @@ Know more about me:
 
 ### :fire: My Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">:
 
-
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mrExplorist"><img src="https://github-readme-stats.vercel.app/api?username=mrExplorist&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&show_icons=true" alt="mrExplorist's GitHub stats" /></a>
+<a href="http://www.github.com/lalitdotdev"><img src="https://github-readme-stats.vercel.app/api?username=lalitdotdev&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&show_icons=true" alt="lalitdotdev's GitHub stats" /></a>
 
-<a href="http://www.github.com/mrExplorist"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrExplorist&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/lalitdotdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitdotdev&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/mrExplorist"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mrExplorist&bg_color=181824&color=ffffff&line=000000&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/lalitdotdev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lalitdotdev&bg_color=181824&color=ffffff&line=000000&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/mrExplorist" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrExplorist&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/lalitdotdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitdotdev&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/mrExplorist/devcastle" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=devcastle&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/mrExplorist/omnidash" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=omnidash&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-<br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/mrExplorist/autofloww" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=autofloww&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/mrExplorist/devforge" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=devforge&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+<div width="100%" align="center"><a href="https://github.com/lalitdotdev/devcastle" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitdotdev&repo=devcastle&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/lalitdotdev/omnidash" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitdotdev&repo=omnidash&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/mrExplorist/docsflow" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=docsflow&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/mrExplorist/aicourseware" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=aicourseware&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/lalitdotdev/autofloww" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitdotdev&repo=autofloww&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/lalitdotdev/devforge" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitdotdev&repo=devforge&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+<br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/lalitdotdev/docsflow" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitdotdev&repo=docsflow&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/lalitdotdev/aicourseware" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitdotdev&repo=aicourseware&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/mrExplorist/sphere" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=sphere&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/mrExplorist/ynab" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=ynab&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a></div>
-
+<div width="100%" align="center"><a href="https://github.com/lalitdotdev/sphere" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitdotdev&repo=sphere&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/lalitdotdev/ynab" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitdotdev&repo=ynab&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a></div>
 
 <br /><br /> <br />
 <br /><br /> <br />
 <br /><br /> <br />
 <br /><br /> <br />
-
-
 
 ### :bookmark_tabs: AWS Certified with 98% grades :
 
@@ -254,6 +246,7 @@ Know more about me:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+
 - [@litsharmaa: Indian tech influencers push the boundaries on LinkedIn, some might say exploit. Their hustle for engagement can feel inauthentic, focused on self-promotion over genuine connection and creating some real value.](https://twitter.com/litsharmaa/status/1777730400737234961)
 - [@litsharmaa: Shit Posters reach on X 📈 People who are trying to create actual value 📉](https://twitter.com/litsharmaa/status/1777650900112216449)
 - [@litsharmaa: Debunking fear of AI replacing software engineers by addressing outrageous claims. Let&#39;s analyse this with the help of this 🧵.1. Why NVIDEA&#39;s CEO Jensen Huang say that programmers are obsolete ?#artificiallyinteligence #programming #programmer #technology #developers](https://twitter.com/litsharmaa/status/1771904970733859288)
