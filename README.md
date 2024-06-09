@@ -224,16 +224,28 @@ Know more about me:
 
 <div width="100%" align="center"><a href="https://github.com/mrExplorist/devcastle" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=devcastle&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/mrExplorist/omnidash" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=omnidash&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+
+<br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/mrExplorist/autofloww" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=autofloww&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/mrExplorist/devforge" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=devforge&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+<br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/mrExplorist/docsflow" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=docsflow&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/mrExplorist/aicourseware" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=aicourseware&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
 <br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/mrExplorist/sphere" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=sphere&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/mrExplorist/ynab" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=ynab&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a></div>
 
 
-<br /><br /><br /><br /><br />
-<br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/mrExplorist/docsflow" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=docsflow&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/mrExplorist/aicourseware" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrExplorist&repo=aicourseware&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 <br /><br /> <br />
+<br /><br /> <br />
+<br /><br /> <br />
+<br /><br /> <br />
+
+
 
 ### :bookmark_tabs: AWS Certified with 98% grades :
 
