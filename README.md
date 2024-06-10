@@ -17,16 +17,19 @@ A person who believes in the _POWER OF CODE_
 
 Know more about me:
 
-- 👨‍🎓<em>Curious, Self Driven, and Tech-Inspired! I'm a pre-final year undergraduate student at <a href="https://amu.ac.in/"> <b>Zakir Husain College of Engineering And Technology</b>, Aligarh</a> </em>. From unraveling technology's mysteries to crafting impactful solutions, I thrive on exploring the endless possibilities and challenges that come with it.. I enjoy delving into the intricacies of technology, am passionate about problem-solving, and driven to create things that make an impact.
+- 👨‍🎓<em>Curious, Self Driven, and Tech-Inspired! I'm a final year undergraduate student at <a href="https://amu.ac.in/"> <b>Zakir Husain College of Engineering And Technology</b>, Aligarh</a> </em>. From unraveling technology's mysteries to crafting impactful solutions, I thrive on exploring the endless possibilities and challenges that come with it.. I enjoy delving into the intricacies of technology, am passionate about problem-solving, and driven to create things that make an impact.
 
 - ⚡️ I've had expertise using the Agile Methodology to build upon large-scale systems while working on multi-disciplinary projects. **On a technical front**, I'm skilled in Frontend (React , Nextjs), Backend Development (NodeJs ,Flask, Django), various AWS Services (lambda , EC2)
 
 - ⚡ Dreaming, Designing, Developing. With a passion for software, I transform ideas into elegant interfaces. Meticulous about user experience, architecture, and code quality, I bring creations to life.
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=lalitdotdev)](https://github.com/lalitdotdev/github-profile-trophy)
 
-<p align="center"><a href="https://twitter.com/litsharmaa" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LalitSharma74&label=Profile%20views&color=0e75b6&style=flat" alt="lalitsharma74" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%lakh%20lines%20of%20code-blue" alt="lalitsharma74" /> </p>
+
 
 ---
 
