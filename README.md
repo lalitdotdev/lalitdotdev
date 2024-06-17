@@ -227,7 +227,7 @@ Know more about me:
 
 <br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/lalitdotdev/autofloww" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitdotdev&repo=autofloww&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/lalitdotdev/devforge" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitdotdev&repo=devforge&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/lalitdotdev/autofloww" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitdotdev&repo=autofloww&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/lalitdotdev/transcribeX" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalitdotdev&repo=transcribeX&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br />
 
