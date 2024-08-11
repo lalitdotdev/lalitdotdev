@@ -249,10 +249,11 @@ Know more about me:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@saurabhyadavz: RT @saurabhyadavz: the contribution of project managers in every company cannot be thanked enough](https://twitter.com/saurabhyadavz/status/1821922181049131452)
+- [@lalitdotdev: I joined a startup just 4 days ago, and already my tech co-founder is questioning my contributions. It&#39;s frustrating when someone tries to undermine your work so early on. Demanding tone doesn’t foster collaboration—it’s a red flag.](https://twitter.com/lalitdotdev/status/1822215013320323320)
+- [@saurabhyadavz: RT by @lalitdotdev: the contribution of project managers in every company cannot be thanked enough](https://twitter.com/saurabhyadavz/status/1821922181049131452)
+- [@lalitdotdev: The suggested follows from the guy I followed. 👇](https://twitter.com/lalitdotdev/status/1815980267653284067)
 - [@lalitdotdev: Indian tech influencers push the boundaries on LinkedIn, some might say exploit. Their hustle for engagement can feel inauthentic, focused on self-promotion over genuine connection and creating some real value.](https://twitter.com/lalitdotdev/status/1777730400737234961)
 - [@lalitdotdev: Shit Posters reach on X 📈 People who are trying to create actual value 📉](https://twitter.com/lalitdotdev/status/1777650900112216449)
-- [@lalitdotdev: RT by @lalitdotdev: 🌐Unraveling the Web Data Management: Cookies vs. Sessions vs. Local Storage 🍪🔗💾 Open 🧵](https://twitter.com/lalitdotdev/status/1720016263353917881)
 <!-- TWITTER:END -->
 
 ## 📧 Get in Touch
