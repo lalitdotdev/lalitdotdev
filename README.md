@@ -42,7 +42,7 @@ Know more about me:
 - 🧠 Constantly learning and exploring new technologies to advance my skills.
 - ⚡ Check my repositories to gain insights into my journey and tech stack.
 
-- :seedling: Exploring Technical Content Writing on my blog [devforge.app](https://devforge.vercel.app/)
+- :seedling: Building [devcastle](https://devcastle.vercel.app) Community application which any dev , creators and designers ever needed.
 
 - :zap: In my free time, I solve problems and read tech articles.
 
