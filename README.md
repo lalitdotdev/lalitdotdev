@@ -249,11 +249,11 @@ Know more about me:
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@lalitdotdev: I joined a startup just 4 days ago, and already my tech co-founder is questioning my contributions. It&#39;s frustrating when someone tries to undermine your work so early on. Demanding tone doesn’t foster collaboration—it’s a red flag.](https://twitter.com/lalitdotdev/status/1822215013320323320)
-- [@saurabhyadavz: RT by @lalitdotdev: the contribution of project managers in every company cannot be thanked enough](https://twitter.com/saurabhyadavz/status/1821922181049131452)
-- [@lalitdotdev: The suggested follows from the guy I followed. 👇](https://twitter.com/lalitdotdev/status/1815980267653284067)
-- [@lalitdotdev: Indian tech influencers push the boundaries on LinkedIn, some might say exploit. Their hustle for engagement can feel inauthentic, focused on self-promotion over genuine connection and creating some real value.](https://twitter.com/lalitdotdev/status/1777730400737234961)
-- [@lalitdotdev: Shit Posters reach on X 📈 People who are trying to create actual value 📉](https://twitter.com/lalitdotdev/status/1777650900112216449)
+- [@lalitdotdev: @terakyalenadena And this](https://twitter.com/lalitdotdev/status/1823932564463046694)
+- [@lalitdotdev: @AdarshChetan Bhai agle Olympics tak yahi post karte rehenge log , I have enough of seeing this on my feed .](https://twitter.com/lalitdotdev/status/1823603789955277115)
+- [@lalitdotdev: @Sheetal2205 This is ridiculous thought , the purpose of these online offerings is to spread knowledge and skills to a wider audience, not to replace the value of the hard-earned title of an IITian.](https://twitter.com/lalitdotdev/status/1823327342200041708)
+- [@lalitdotdev: @malpani Valuation of these companies is largely based on growth projections and investor sentiment rather than solid profitability.](https://twitter.com/lalitdotdev/status/1822989269662630248)
+- [@lalitdotdev: @ankit_saas True can&#39;t agree more Early Validation -&gt; Test with MVP Targeted Outreach -&gt; Engage potential users. Customer Support -&gt; Set up channels like social media or forums. Monitoring &amp; Analytics -&gt; Track user behavior. Feedback Loop -&gt; Collect and act.](https://twitter.com/lalitdotdev/status/1822273455942705586)
 <!-- TWITTER:END -->
 
 ## 📧 Get in Touch
