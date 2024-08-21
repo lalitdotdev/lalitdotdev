@@ -213,7 +213,6 @@ Know more about me:
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/lalitdotdev"><img src="https://github-readme-stats.vercel.app/api?username=lalitdotdev&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="lalitdotdev's GitHub stats" /></a>
 
 <a href="http://www.github.com/lalitdotdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitdotdev&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
