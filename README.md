@@ -256,7 +256,7 @@ Know more about me:
 
 ## 📧 Get in Touch
 
-I'm always interested in new opportunities and collaborations. Feel free to reach out to me through [mailfor.lalitsharma@gmail.com](mailto:mailfor.lalitsharma@gmail.com) or connect with me on [Twitter](https://twitter.com/Mr_Explorist).
+I'm always interested in new opportunities and collaborations. Feel free to reach out to me through [mailfor.lalitsharma@gmail.com](mailto:mailfor.lalitsharma@gmail.com) or connect with me on [Twitter](https://x.com/lalitdotdev).
 
 Looking forward to building exciting projects together! 😊
 
