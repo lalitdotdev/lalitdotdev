@@ -34,7 +34,7 @@ Know more about me:
 
 ### :man_technologist: About Me :
 
-- :man_technologist: I am a self taught Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳.
+- :man_technologist: I am a self taught Software Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳.
 - 🖥️ Explore my portfolio at [💻+ 😃+ 🧠+ 💡=🏆!](https://litsharmadev.tech).
 - :telescope: I’m Contributing to frontend and backend for building web applications.
 - 💬 Ask me about **NextJS , JavaScript, TypeScript, React** ecosystem, and building scalable web applications.
