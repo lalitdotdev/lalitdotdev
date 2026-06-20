@@ -212,8 +212,3 @@ Open to conversations on agentic system design, production AI reliability, and f
 
 <br/>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lalitdotdev&style=flat-square&color=58A6FF" alt="Profile views" />
-
-</div>
