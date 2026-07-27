@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+Agentic+Engineer;Full-Stack+Systems+Builder;Founder+%40+DevCastle;I+ship+production%2C+not+demos." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+%2B+AI+Systems+Engineer;Distributed+Systems+%2B+Agentic+Architectures;Founder+%40+DevCastle;I+ship+resilient+production+systems." alt="Typing SVG" />
 
 <br/>
 
@@ -13,79 +14,114 @@
 
 <br/>
 
-## ⚡ What I do
+## ⚡ Engineering Philosophy
 
-Software is going through its biggest shift since the internet itself — the next generation of products won't be built by large teams writing boilerplate, they'll be built by engineers who can fuse AI, systems design, and product instinct into one skillset. That's the bet I'm making.
-
-I build full-stack products where the **backend is an AI system**, not a feature bolted onto one. That means treating LLM calls like any other unreliable network dependency — timeouts, retries, circuit breaking, structured logging, graceful degradation — while still shipping a UI people actually want to use.
+Building production software requires predictable systems, not magical assumptions. AI models and external APIs are inherently non-deterministic, high-latency network dependencies. I architect full-stack applications around one core rule: **the software stack must remain deterministic, type-safe, and resilient—regardless of service volatility.**
 
 ```
-scrape → LLM analysis → resilience layer → score → stream → ship
+
+Client Input ──> [Type Boundary] ──> [State & Caching] ──> [Resilience Gateway] ──> [LLM / Data Service] ──> [Streaming UI]
+
 ```
 
-**Right now:** agentic data pipelines on serverless infra, production reliability for LLM-backed APIs, and the unglamorous plumbing that keeps AI features from falling over under real traffic.
+* **Type Safety & Data Contracts:** Full end-to-end type safety from database models to UI components. All incoming inputs, API responses, and LLM outputs are validated at runtime with strict Zod/Pydantic schemas before reaching core application logic.
+* **Backend Resilience & Scale:** High-throughput Node.js/TypeScript and Python services engineered with multi-tier caching (In-Memory ➔ Redis), sliding-window rate limiters, retries with exponential backoff + jitter, circuit breakers, and connection pooling.
+* **Applied AI & LLM Systems:** Productionizing LLM features using stateful multi-agent orchestrations (LangGraph), hybrid search RAG (dense + sparse vector indexing), structured JSON output enforcement, and semantic caching to reduce latency and token cost.
+* **Real-Time Streaming UI:** Building non-blocking user interfaces powered by Server-Sent Events (SSE) and WebSockets to render token streams in real-time while bypassing serverless gateway execution limits.
+* **System Observability:** End-to-end telemetry with structured JSON logs tied to request correlation IDs, ensuring edge-case failures, API throttles, or LLM drops are isolated and debugged instantly.
+
+
+
+```
+request → input validation (Zod) → state machine → resilience gateway → distributed DB / LLM stream → UI render
+```
+
+**Core Focus:** High-throughput Node.js/TypeScript & Python backends, MERN/Next.js architectures, serverless platform engineering, production RAG & multi-agent systems, and real-time streaming interfaces.
 
 <br/>
 
-**Focus areas:**
-`Multi-Agent Architectures` `Agentic Workflows` `RAG Systems` `Knowledge Graphs` `LLM Applications` `AI Infrastructure` `System Design` `Distributed Systems` `Backend Architecture` `Developer Platforms` `Platform Strategy` `Product Engineering`
+## 🚀 Featured Builds & Systems
+
+### 🏰 DevCastle — Sovereign Social & Intelligence Platform
+> A production-grade platform for modern developers combining community infrastructure, market intelligence, launch arenas, and career engines. **Live. Deployed. Hardened against real failure.**
+
+<details open>
+<summary><b>🔍 View Complete Feature Suite & System Breakdown</b></summary>
 
 <br/>
 
-## 🏰 DevCastle — Featured Build
+#### 🤖 AI-Powered Reddit Market Intelligence Pipeline
+* **Decodo Proxy-Backed Scraper** — Cheerio + Decodo proxy pipeline extracts top weekly threads and nested comments from targeted subreddits.
+* **LLM Opportunity Scorer** — OpenAI/Insforge LLM processes scraped data to generate scored (0–10) SaaS opportunities with demand breakdown, existing competitors, monetization models, and go-to-market strategies.
+* **Non-Blocking SSE Streaming** — Server-Sent Events stream incremental progress to dodge serverless connection limits (Vercel 504 gateway timeouts).
+* **Dual-Layer Caching** — In-memory LRU Map → Prisma MySQL (12h TTL) delivering near-zero latency for repeated queries.
+* **Upstash Distributed Rate Limiting** — Sliding-window IP limiter enforcing API endpoint protection with standard `X-RateLimit-*` headers.
 
-> A developer platform combining AI-native workflows, market intelligence, and builder infrastructure. **Live. Deployed. Hardened against real failure**, not a demo.
+#### 📊 Crunchbase Market Intelligence
+* **Startup Discovery Engine** — Live graph integration searching Crunchbase organizations for funding rounds, investor networks, and valuation metrics inline.
+* **Server Actions SSR** — Instant, server-rendered data fetching using Next.js 14 Server Actions with built-in caching.
+* **Rate-Limited Client & Mocking** — In-memory request throttling with a full offline mock layer for local testing and CI/CD pipelines.
+
+#### 📡 Social Engine & LaunchPad Arena
+* **Sub-Dev Communities** — Granular member controls, moderation queues, topic spaces, and unique community identities.
+* **Threaded Feed & EditorJS 2.0** — Fast feed with nested comments, syntax-highlighted code blocks, link previews, and image embeds.
+* **LaunchPad Marketplace** — Dedicated arena for project launches featuring image carousels, status tracking, and upvote-weighted ranking algorithms.
+* **Engagement Engine** — Follow graph, notification fan-out, bookmarks, and real-time activity metrics.
+
+#### 💼 Career Engine & Creator Studio
+* **Pro-Grade Job Board** — MySQL full-text search indexing with multi-dimensional filtering (roles, compensation, location, tech stack).
+* **GitHub Curation Showcase** — Direct repository curation and showcasing on developer profiles.
+* **AI Creator Studio** — Long-form EditorJS workspace powered by Google Gemini for drafting, summarizing, and technical documentation.
+* **Stripe Monetization** — Subscription gating, recurring billing, and creator payout management via Stripe Webhooks.
+
+#### 🗄️ System Architecture & Schema (Prisma MySQL — 25+ Relational Models)
+
+```
+
+MySQL (Prisma)
+├── User, Account, Session         → Auth & Security Layer
+├── Community, Subscription        → Social & Follow Graph
+├── Post, Comment, Vote            → Threaded Feed Engine
+├── LaunchProject, LaunchVote      → LaunchPad Marketplace
+├── Job, Company, Application      → Career & Talent Engine
+├── Essay, Category                → AI Creator Studio
+├── RedditAnalysis                 → Market Intelligence Cache
+└── StripeSubscription, Customer   → Payments & Subscriptions
+
+```
+
+**Tech Stack:** `Next.js 14 (App Router)` `TypeScript 5` `React 18` `Tailwind CSS` `Prisma ORM` `Aiven MySQL` `Upstash Redis` `Decodo Proxy + Cheerio` `Google Gemini` `InsForge AI` `G2 API V2` `UploadThing` `NextAuth.js` `Stripe API` `PostHog` `Vitest / Bun Test`
+
+</details>
+
+<br/>
+
+### ✈️ Wayfarer — Multi-Agent Travel Planner
+> An intelligent travel planning system coordinating specialized agents via LangGraph. [**GitHub Repo**](https://github.com/lalitdotdev/wayfarer-multiagent)
+
+- **LangGraph Multi-Agent Orchestration** — Graph-based agent state management where specialized agents plan, execute, and pass state deterministically.
+- **Domain-Specialized Sub-Agents** — Dedicated agent nodes for flight search, hotel discovery, custom itinerary synthesis, and final travel plan aggregation.
+- **Tool Calling & External Search** — Dynamically fetches travel intelligence, pricing, and availability through structured tool interfaces.
+- **Streamlit Interactive UI** — Clean, responsive web frontend for real-time plan generation, interactive edits, and structured recommendations.
+
+**Stack:** `Python` `LangGraph` `LangChain` `Streamlit` `OpenAI / Claude API` `Tavily / Search APIs`
+
+<br/>
+
+## 🔭 High-Impact Systems Built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Reddit Market Intelligence
-
-Agentic pipeline: scrapes target subreddits → LLM-driven analysis → ranked SaaS opportunity scoring. Built to survive serverless constraints and flaky upstream APIs.
-
-- **SSE streaming** — long AI jobs stream incrementally to dodge Vercel's 504 ceiling
-- **InsForge AI resilience layer** — timeouts, backoff retries, error classification, auto credit-refunds on failed-but-charged requests
-- **Aiven MySQL retry logic** — handles transient connection drops from cold-start reconnects
-- **Structured JSON logging** → Vercel Log Drain / Axiom, full request traceability
-- **Test coverage** — Vitest + curl smoke tests against the *live* API
+**🌐 Production Full-Stack Platforms**
+Scalable web applications built on Next.js, React, Node.js/Express, and Python. Engineered with strict type boundaries, optimized database indexing (SQL/NoSQL), automated CI/CD pipelines, and zero-trust authentication.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔌 G2 API V2 Integration
-
-Full market-intelligence integration: buyer intent, competitor analysis, opportunity scoring, category browsing, credit management.
-
-- **~22 files · ~2,400 LOC** of TypeScript
-- Diagnosed a production `401` traced to a missing env token
-- Fixed silent auth failure: `Token token=` → `Bearer` — the kind of detail that only surfaces by inspecting raw traffic, not docs
-- Built an in-app **API explorer** so credit-metered calls can be tested without burning quota blind
-
-</td>
-</tr>
-</table>
-
-**Stack:** `Next.js 14 (App Router)` `TypeScript` `Tailwind CSS` `Prisma` `Aiven MySQL` `InsForge AI` `G2 API V2` `EmailJS`
-
-**Platform pillars:** AI-native workflows · intelligence layer (startup discovery, competitive analysis, trend detection) · builder infrastructure (developer communities, project discovery) · platform engineering (scalable, cloud-native architecture)
-
-<br/>
-
-## 🔭 Other builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 Multi-Agent AI Assistant**
-Production-grade AI orchestration powered by LangGraph — agents that plan, delegate, and execute as a coordinated system rather than a single prompt-response loop.
-
-</td>
-<td width="50%" valign="top">
-
-**🔍 AI Knowledge Systems**
-Retrieval-first architectures for intelligent information discovery — RAG pipelines built for accuracy over vector-search vibes.
+**🤖 Multi-Agent Orchestration & RAG**
+Production LangGraph & Python multi-agent orchestration engines. High-accuracy Retrieval-Augmented Generation (RAG) pipelines utilizing dense vector indexing, hybrid search, and semantic caching over raw vector similarity.
 
 </td>
 </tr>
@@ -93,108 +129,95 @@ Retrieval-first architectures for intelligent information discovery — RAG pipe
 
 <br/>
 
-## 🧠 How I debug
+## 🛠️ Production Tech Stack
 
-I validate API behavior directly against the live service — `curl`, raw request/response inspection — before trusting an SDK's abstraction or assuming the docs are right. The hard bugs in AI-integrated systems live in the gap between what a provider *claims* and what it *does* under load, rate limits, or cold starts.
-
-
-<br/>
-## 🛠️ Tech Stack
- 
-<sub>Core stack used in production (Next.js · TypeScript · Prisma · Aiven MySQL · InsForge AI) marked in the DevCastle section above — the full list below spans what I build with day-to-day across full-stack and AI-native engineering.</sub>
- 
 <div align="left">
 
-**Frontend**
+**Core Languages & Runtimes**
 <br/>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
- 
-**Backend & APIs**
-<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5/CSS3](https://img.shields.io/badge/HTML5_%2F_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Frontend & Client State**
+<br/>
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React 18](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**Backend Architecture & Middleware**
+<br/>
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=flat-square&logo=webhook&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
- 
-**Data & Storage**
+![REST & GraphQL](https://img.shields.io/badge/REST_%26_GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod_Validation-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Server-Sent Events](https://img.shields.io/badge/SSE_%2F_WebSockets-FF6B6B?style=flat-square&logo=webhook&logoColor=white)
+
+**Data Infrastructure & ORMs**
 <br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-![Aiven](https://img.shields.io/badge/Aiven-FF4F00?style=flat-square&logo=aiven&logoColor=white)
- 
-**AI / Agentic Engineering**
+![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![Redis Cache](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone_Vector_DB-000000?style=flat-square&logo=pinecone&logoColor=white)
+
+**Agentic AI & LLM Systems**
 <br/>
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=graphql&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Vector DBs](https://img.shields.io/badge/Vector_DBs-6E56CF?style=flat-square&logo=databricks&logoColor=white)
- 
-`RAG pipelines` `Multi-agent orchestration` `Agent memory & state` `Tool/function calling` `Prompt engineering` `Embeddings & semantic search` `LLM evaluation & guardrails` `Streaming inference (SSE)`
- 
-**Infra, DevOps & Observability**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+`Stateful Agent Memory` `Multi-Agent Planning` `Tool/Function Execution` `Dense Semantic Search` `Hybrid RAG` `Structured Output Control`
+
+**DevOps, Reliability & Cloud**
 <br/>
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Axiom](https://img.shields.io/badge/Axiom-000000?style=flat-square&logo=axiom&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
- 
-`Serverless architecture` `Structured logging` `Retry & circuit-breaker patterns` `Rate limiting` `Cold-start optimization` `Log aggregation (Log Drain)`
- 
-**Tooling & Workflow**
-<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![cURL](https://img.shields.io/badge/cURL-073551?style=flat-square&logo=curl&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
- 
-**Integrations shipped in production**
-<br/>
-`InsForge AI` `G2 API V2` `EmailJS` `Vercel Log Drain` `OAuth providers`
- 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Axiom](https://img.shields.io/badge/Axiom_Logging-000000?style=flat-square&logo=axiom&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry_Observability-362D59?style=flat-square&logo=sentry&logoColor=white)
+
 </div>
+
 <br/>
 
-## 📐 Engineering principles
+## 📐 Systems & Reliability Standards
 
-| Principle | What it means in practice |
+| Pillar | Engineering Execution |
 |---|---|
-| **LLM calls are unreliable I/O** | Timeouts, retries, fallbacks aren't polish — they're what separates a demo from a product |
-| **Observability before scale** | If a prod failure can't be traced request → root cause, it isn't done |
-| **Verify, don't assume** | Test against the real API/DB/service before believing a fix works |
+| **Defensive I/O Execution** | Assume all external I/O will eventually fail, time out, or rate limit. Enforce strict timeouts, retries with jitter, and circuit breakers. |
+| **Strict Type Boundaries** | Compile-time validation with TypeScript paired with runtime schema enforcement via Zod at every API boundary. |
+| **Full Traceability** | Structured JSON logging tied to request correlation IDs. If an incident cannot be traced to root-cause in seconds, the telemetry is incomplete. |
+| **Verification over SDK Assumptions** | Inspect raw HTTP payloads (`curl`, packet dumps) directly against the wire before trusting third-party abstractions or client SDKs. |
 
 <br/>
 
-## 📬 Let's talk
+## 📬 Connect & Collaborate
 
-Open to conversations on agentic system design, production AI reliability, and full-stack architecture.
+Open to technical leadership discussions, distributed systems design, high-performance web architecture, and production AI engineering.
 
 [![Email](https://img.shields.io/badge/Email-mailfor.lalitsharma%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailfor.lalitsharma@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pinglalit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pinglalit)
+[![X](https://img.shields.io/badge/X-@lalitdotdev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lalitdotdev)
 
 <br/>
 
 <details>
-<summary><b>📊 GitHub Stats</b></summary>
+<summary><b>📊 GitHub Engineering Metrics</b></summary>
 <br/>
 
 <p align="center">
@@ -204,11 +227,7 @@ Open to conversations on agentic system design, production AI reliability, and f
   <img src="https://github-readme-stats.vercel.app/api?username=lalitdotdev&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitdotdev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lalitdotdev&theme=algolia&no-frame=true&margin-w=10" />
-</p>
 
 </details>
 
-<br/>
-
+```
