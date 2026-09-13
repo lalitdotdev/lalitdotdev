@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a full-stack developer with an Electronics & Communications Engineering background — self-taught in software and AI systems. I build and ship real products end-to-end: the app, the backend, and the AI features layered on top. My main project, **DevCastle**, is a live developer community platform with 10,000+ users that I've built and run solo.
+I'm a full-stack developer with an Electronics & Communications Engineering background — self-taught in software and AI systems. I build and ship real products end-to-end: the app, the backend, and the AI features layered on top. My main project, **DevCastle**, is a live developer community platform with real users that I've built and run solo.
 
 I care about shipping things that actually work for real users, not just demos — which means paying attention to type safety, caching, and what happens when an LLM call fails or times out.
 
