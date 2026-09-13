@@ -3,7 +3,7 @@
 # Lalit Sharma
 ### Full-Stack Developer & AI Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-litsharmadev.tech-black?style=flat-square&logo=vercel&logoColor=white)](https://lalitsharma.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lalitsharma.dev-black?style=flat-square&logo=vercel&logoColor=white)](https://lalitsharma.dev)
 [![DevCastle](https://img.shields.io/badge/DevCastle-Live-58A6FF?style=flat-square&logo=rocket&logoColor=white)](https://devcastle.vercel.app)
 [![X](https://img.shields.io/badge/X-@lalitdotdev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/lalitdotdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pinglalit-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pinglalit)
