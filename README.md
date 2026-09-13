@@ -216,6 +216,10 @@ Open to technical leadership discussions, distributed systems design, high-perfo
 
 <br/>
 
+### :bookmark_tabs: AWS Certified with 98% grades :
+
+- [AWS Cloud Technical Essentials Certificate from Amazon Web Services](https://www.coursera.org/account/accomplishments/verify/PST2AE5CWFFK)
+
 <details>
 <summary><b>📊 GitHub Engineering Metrics</b></summary>
 <br/>
@@ -227,6 +231,7 @@ Open to technical leadership discussions, distributed systems design, high-perfo
   <img src="https://github-readme-stats.vercel.app/api?username=lalitdotdev&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitdotdev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 </details>
 
