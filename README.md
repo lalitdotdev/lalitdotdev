@@ -24,7 +24,7 @@ I care about shipping things that actually work for real users, not just demos �
 
 A community platform for developers: discussion feeds, project launches, a job board, and an AI assistant — built and maintained solo.
 
-**Live:** [devcastle.vercel.app](https://devcastle.vercel.app) &nbsp;|&nbsp; **Scale:** 10,000+ users · ~174K lines of TypeScript · 25+ database models
+**Live:** [devcastle.vercel.app](https://devcastle.vercel.app) &nbsp;|&nbsp; **Scale:** real users tested (currently in making)· ~174K lines of TypeScript · 25+ database models
 
 - **AI Assistant** — In-app assistant using Groq for inference, local embeddings (`@xenova/transformers`), and Upstash Vector for retrieval-augmented answers about the platform. Built in stages: streaming chat → tool calling against the database → RAG → multi-agent coordination via LangGraph → rate limiting.
 - **Reddit Market Intelligence** — Scrapes subreddit discussions (via Decodo + Cheerio) and uses an LLM to score and summarize SaaS opportunities from them — demand signals, existing competitors, monetization ideas.
