@@ -43,7 +43,7 @@ My work focuses on making LLM features useful in production - retrieval quality,
 A live developer community platform built and maintained as an independent product.
 
 - Community feeds, nested discussions, rich-text publishing, product launches, voting, bookmarks, and job discovery.
-- AI assistant with local embeddings, Upstash Vector retrieval, Groq inference, and multi-agent orchestration with LangGraph.
+- AI assistant with local embeddings (Xenova/Transformers), Upstash Vector retrieval, Groq inference, and **custom multi-agent orchestration** (Router → Semantic Search → Guardrail agents) — built without LangGraph for zero-dependency control.
 - Reddit market intelligence pipeline that extracts demand signals, competitor insights, monetization ideas, and go-to-market recommendations.
 - Production infrastructure spanning Next.js, TypeScript, Prisma, MySQL, Upstash Redis, Stripe, PostHog, and GitHub Actions.
 - Built with attention to caching, rate limiting, type safety, security, and resilient third-party integrations.
@@ -79,7 +79,7 @@ An automated opportunity-discovery system for SaaS and developer products.
 | Area | What I build |
 | --- | --- |
 | **RAG Systems** | Embedding pipelines, hybrid retrieval, vector search, reranking, context construction, and retrieval evaluation |
-| **Multi-Agent Systems** | LangGraph workflows, specialized agents, shared state, tool use, parallel execution, and failure recovery |
+| **Multi-Agent Systems** | Custom TypeScript orchestration (state graphs, router/specialist agents) and LangGraph (Python workflows), with shared state, tool use, and failure recovery |
 | **Production AI** | Streaming, timeouts, retries, rate limits, fallbacks, observability, cost controls, and safe output handling |
 | **Full-Stack Product** | Next.js applications, APIs, authentication, databases, payments, analytics, and responsive UI |
 | **Data Engineering** | Prisma schemas, relational modeling, caching layers, background jobs, and external API integrations |
@@ -203,6 +203,6 @@ I'm interested in conversations about:
 
 ### 🚀 From idea to production — with engineering judgment at every layer.
 
-[![forthebadge](/badges/built-with-love.svg)](https://forthebadge.com)
+![Made with code](https://forthebadge.com/images/featured/featured-built-with-love.svg)
 
 </div>
