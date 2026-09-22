@@ -141,7 +141,7 @@ An automated opportunity-discovery system for SaaS and developer products.
 
 <div align="center">
 
-![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitdotdev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent)
+    ![Lalit's GitHub stats](`/api?username=lalitdotdev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/top-langs/?username=lalitdotdev&layout=compact&hide_border=true&count_private=true&theme=transparent&card_width=400)
 
